@@ -5,9 +5,9 @@ export const metadata = { title: "Papua Abadi Nusantara — Bumandhala Kuma Loka
 export default function Page() {
   return (
     <BrandPage
-      eyebrow="Our Companies"
+      heroColor="#1a3c6e"
+      logo="/img/logo_pan-scaled.png"
       title="Papua Abadi Nusantara"
-      subtitle="World-class airport services in Timika."
       about={{
         img: "/img/aboutus_pan.png",
         paragraphs: [
@@ -16,7 +16,15 @@ export default function Page() {
           "The services we offer include Warehousing and Storage Services, Air Transport Support Services, and Airport Activities, operating in the Mozes Kilangin Airport area in Timika.",
         ],
       }}
-      projects={[{ img: "/img/image-32.png", title: "Cargo Holding Bandara Timika", year: "2025", brand: "Papua Abadi Nusantara" }]}
+      projects={[
+        {
+          img: "/img/image-32.png",
+          title: "Cargo Holding Bandara Timika",
+          year: "2025",
+          brand: "Papua Abadi Nusantara",
+          desc: "Supporting aviation logistics at Mozes Kilangin Airport with professional warehousing and cargo handling services for major airline partners.",
+        },
+      ]}
       faqs={[
         { q: "What services do you provide?", a: "PT. Papua Abadi Nusantara provides a range of airport-related services focused on operational support and logistics, including warehousing and storage, air transport support, and airport activities." },
         { q: "Where do you operate?", a: "Our operations are based at Mozes Kilangin Airport in Timika, Papua. All services are conducted within the airport area, in coordination with local aviation stakeholders and regulatory bodies." },

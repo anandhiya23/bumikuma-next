@@ -5,9 +5,9 @@ export const metadata = { title: "Kopi Kuma Nawasena — Bumandhala Kuma Loka" }
 export default function Page() {
   return (
     <BrandPage
-      eyebrow="Our Companies"
+      heroColor="#5c3d1e"
+      logo="/img/nawasena_logo-1-scaled.png"
       title="Kopi Kuma Nawasena"
-      subtitle="Indonesian coffee, cultivated with care."
       about={{
         img: "/img/Group-1171275059.png",
         paragraphs: [
