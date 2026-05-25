@@ -7,7 +7,6 @@ const admins = [
   { logo: "/img/bumi-kuma-logo.png", name: "Bumi Kuma Pet Store" },
   { logo: "/img/nawasena_logo.png", name: "Kopi Kuma Nawasena" },
   { logo: "/img/pan_logo.png", name: "Papua Abadi Nusantara" },
-  { logo: "/img/tba_logo.png", name: "TBA Studio" },
 ];
 
 export default function Contact() {

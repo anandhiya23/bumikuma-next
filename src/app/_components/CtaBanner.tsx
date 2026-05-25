@@ -18,10 +18,10 @@ export default function CtaBanner() {
       </div>
       <div className="relative h-[480px]">
         <div className="absolute bottom-0 left-0 w-3/4 h-3/4 z-10 overflow-hidden rounded-3xl shadow-2xl">
-          <Image src="/img/Rectangle-832.png" alt="" fill className="object-cover" sizes="300px" />
+          <Image src="/img/image-32-1024x708.png" alt="" fill className="object-cover" sizes="300px" />
         </div>
         <div className="absolute top-0 right-0 w-3/4 h-3/4 z-20 overflow-hidden rounded-3xl shadow-2xl">
-          <Image src="/img/Rectangle-832.png" alt="" fill className="object-cover" sizes="280px" />
+          <Image src="/img/aboutus.png" alt="" fill className="object-cover" sizes="280px" />
         </div>
       </div>
     </section>

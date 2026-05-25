@@ -29,7 +29,7 @@ export default function About() {
           <div className="order-2 lg:order-1">
             <h2 className="font-serif text-3xl md:text-4xl">Four Growing Businesses</h2>
             <p className="mt-5 text-muted leading-relaxed">
-              As a holding company, we oversee four growing businesses: Bumi Kuma Pet Store, PT. Papua Abadi Nusantara, Kopi Kuma Nawasena, and TBA Studio.
+              As a holding company, we oversee three growing businesses: Bumi Kuma Pet Store, PT. Papua Abadi Nusantara, and Kopi Kuma Nawasena.
             </p>
             <p className="mt-4 text-muted leading-relaxed">
               From this foundation, we believe that being a strong company means the ability to build long-term relationships and grow them into inclusive, ethical, responsible, and impactful businesses. Our strength lies in the ability to recognize potential, manage resources with care, and develop them through wise investment and innovation.

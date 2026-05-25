@@ -7,7 +7,6 @@ const links = [
   { href: "/bumi-kuma-pet-store", label: "Bumi Kuma Pet Store" },
   { href: "/papua-abadi-nusantara", label: "Papua Abadi Nusantara" },
   { href: "/nawasena", label: "Kopi Kuma Nawasena" },
-  { href: "/tba", label: "TBA Studio" },
   { href: "/consumption", label: "Consumptions" },
   { href: "/projects", label: "Projects" },
 ];

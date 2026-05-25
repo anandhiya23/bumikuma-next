@@ -6,6 +6,7 @@ import { useState } from "react";
 type Brand = {
   href: string;
   logo: string;
+  image?: string;
   title: string;
   desc: string;
   color: string;
@@ -36,36 +37,27 @@ export default function BusinessesCarousel({ brands }: { brands: Brand[] }) {
         </button>
 
         <div
-          className="hidden lg:flex w-52 h-64 rounded-2xl items-center justify-center opacity-40 scale-90 cursor-pointer flex-shrink-0 transition-opacity hover:opacity-60"
+          className="hidden lg:block relative w-52 h-64 rounded-2xl overflow-hidden opacity-40 scale-90 cursor-pointer flex-shrink-0 transition-opacity hover:opacity-60"
           style={{ backgroundColor: brands[prev].color }}
           onClick={() => setActive(prev)}
         >
-          <div className="relative w-28 h-16">
-            <Image src={brands[prev].logo} alt={brands[prev].title} fill className="object-contain" sizes="112px" />
-          </div>
+          <Image src={brands[prev].image ?? brands[prev].logo} alt={brands[prev].title} fill className="object-cover" sizes="208px" />
         </div>
 
         <Link
           href={brands[active].href}
-          className="w-full max-w-md aspect-square rounded-2xl flex flex-col items-center justify-center p-12 shadow-xl relative z-10 flex-shrink-0 hover:scale-[1.02] transition-transform"
+          className="relative w-full max-w-md aspect-square rounded-2xl overflow-hidden shadow-xl z-10 flex-shrink-0 hover:scale-[1.02] transition-transform"
           style={{ backgroundColor: brands[active].color }}
         >
-          <div className="relative w-36 h-24 mb-6">
-            <Image src={brands[active].logo} alt={brands[active].title} fill className="object-contain" sizes="144px" />
-          </div>
-          <div className="text-center text-white">
-            <h3 className="font-serif text-3xl font-bold">{brands[active].title}</h3>
-          </div>
+          <Image src={brands[active].image ?? brands[active].logo} alt={brands[active].title} fill className="object-cover" sizes="448px" />
         </Link>
 
         <div
-          className="hidden lg:flex w-52 h-64 rounded-2xl items-center justify-center opacity-40 scale-90 cursor-pointer flex-shrink-0 transition-opacity hover:opacity-60"
+          className="hidden lg:block relative w-52 h-64 rounded-2xl overflow-hidden opacity-40 scale-90 cursor-pointer flex-shrink-0 transition-opacity hover:opacity-60"
           style={{ backgroundColor: brands[next].color }}
           onClick={() => setActive(next)}
         >
-          <div className="relative w-28 h-16">
-            <Image src={brands[next].logo} alt={brands[next].title} fill className="object-contain" sizes="112px" />
-          </div>
+          <Image src={brands[next].image ?? brands[next].logo} alt={brands[next].title} fill className="object-cover" sizes="208px" />
         </div>
 
         <button

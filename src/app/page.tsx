@@ -5,11 +5,10 @@ import BusinessesCarousel from "./_components/BusinessesCarousel";
 import CtaBanner from "./_components/CtaBanner";
 
 const brands = [
-  { href: "/bumi-kuma-pet-store", logo: "/img/logo_bumipet-scaled.png", title: "Bumi Kuma Pet Store", desc: "More Than Just a Pet Supply Store — We seek, care for, and provide a wide variety of pets with unique species — from exotic animals and household pets to marine life species — all responsibly and ethically sourced with proper certification. With respect for biodiversity, we operate under an ethical trade system.", color: "#7eb65d" },
-  { href: "/papua-abadi-nusantara", logo: "/img/logo_pan-scaled.png", title: "Papua Abadi Nusantara", desc: "World-class airport ground handling services in Timika, Papua, providing safe, reliable, and professional operations for major aviation partners across Indonesia.", color: "#1a3c6e" },
-  { href: "/nawasena", logo: "/img/nawasena_logo-1-scaled.png", title: "Kopi Kuma Nawasena", desc: "Indonesian coffee, cultivated with care — bringing the finest single-origin flavors from the archipelago to your cup through ethical farming and direct-trade partnerships.", color: "#5c3d1e" },
-  { href: "/tba", logo: "/img/logo_tba-scaled.png", title: "TBA Studio", desc: "Indie game development studio pushing genre boundaries through bold storytelling, creative mechanics, and a passion for crafting unforgettable player experiences.", color: "#1a1a2e" },
-  { href: "/consumption", logo: "/img/logo_consuptions-scaled.png", title: "Consumptions", desc: "Quality, safe, ethically-sourced food products cultivated with deep respect for people, communities, and the planet — from farm to table.", color: "#c05e1a" },
+  { href: "/bumi-kuma-pet-store", logo: "/img/logo_bumipet-scaled.png", image: "/img/heropt2-1.png", title: "Bumi Kuma Pet Store", desc: "More Than Just a Pet Supply Store — We seek, care for, and provide a wide variety of pets with unique species — from exotic animals and household pets to marine life species — all responsibly and ethically sourced with proper certification. With respect for biodiversity, we operate under an ethical trade system.", color: "#7eb65d" },
+  { href: "/papua-abadi-nusantara", logo: "/img/logo_pan-scaled.png", image: "/img/heropan.png", title: "Papua Abadi Nusantara", desc: "World-class airport ground handling services in Timika, Papua, providing safe, reliable, and professional operations for major aviation partners across Indonesia.", color: "#1a3c6e" },
+  { href: "/nawasena", logo: "/img/nawasena_logo-1-scaled.png", image: "/img/heronawasena.png", title: "Kopi Kuma Nawasena", desc: "Indonesian coffee, cultivated with care — bringing the finest single-origin flavors from the archipelago to your cup through ethical farming and direct-trade partnerships.", color: "#5c3d1e" },
+  { href: "/consumption", logo: "/img/logo_consuptions-scaled.png", image: "/img/about_consuption.png", title: "Consumptions", desc: "Quality, safe, ethically-sourced food products cultivated with deep respect for people, communities, and the planet — from farm to table.", color: "#c05e1a" },
 ];
 
 const partners = [

@@ -5,7 +5,6 @@ import CtaBanner from "../_components/CtaBanner";
 export const metadata = { title: "Projects — Bumandhala Kuma Loka" };
 
 const projects = [
-  { img: "/img/sdf.png", title: "Hey there! We're TBA Studio", year: "2025", brand: "TBA" },
   { img: "/img/Frame-2147227177.png", title: "Windah's Animotion Collab", year: "2025", brand: "Bumi Kuma Pet Store" },
   { img: "/img/Group-1171275050.png", title: "Bumi Kuma Offline Store Opening", year: "2025", brand: "Bumi Kuma Pet Store" },
   { img: "/img/image-32.png", title: "Bumi Kuma Online Store Opening", year: "2025", brand: "Bumi Kuma Pet Store" },
