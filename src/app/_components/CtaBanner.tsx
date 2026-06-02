@@ -1,19 +1,22 @@
 import Image from "next/image";
-import Link from "next/link";
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 
-export default function CtaBanner() {
+export default async function CtaBanner() {
+  const t = await getTranslations("ctaBanner");
+
   return (
     <section className="py-24 px-6 max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center">
       <div>
         <h2 className="font-serif text-5xl md:text-6xl leading-tight mb-8">
-          Interested in<br />our Products<br />&amp; Services?
+          {t("heading1")}<br />{t("heading2")}<br />{t("heading3")}
         </h2>
-        <p className="text-lg text-muted mb-10">Let&apos;s make it happen!</p>
+        <p className="text-lg text-muted mb-10">{t("sub")}</p>
         <Link
           href="/contact"
           className="bg-foreground text-white px-10 py-3 rounded-full font-semibold hover:bg-foreground/80 transition-all"
         >
-          Contact Us
+          {t("cta")}
         </Link>
       </div>
       <div className="relative h-[480px]">

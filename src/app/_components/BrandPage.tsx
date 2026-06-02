@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { getTranslations } from "next-intl/server";
 import FAQ from "./FAQ";
 import CtaBanner from "./CtaBanner";
 
@@ -17,9 +18,12 @@ type Props = {
   extraSection?: React.ReactNode;
 };
 
-export default function BrandPage({
+export default async function BrandPage({
   heroColor, logo, title, about, faqs, projects, comingSoon, extraSection,
 }: Props) {
+  const t = await getTranslations("brandPage");
+  const tFaq = await getTranslations("faq");
+
   const splitAt = Math.ceil(about.paragraphs.length / 2);
   const hasRow2 = !!about.img2;
   const row1Paras = hasRow2 ? about.paragraphs.slice(0, splitAt) : about.paragraphs;
@@ -27,7 +31,6 @@ export default function BrandPage({
 
   return (
     <>
-      {/* Hero card */}
       <section className="max-w-7xl mx-auto px-4 md:px-6 pt-8">
         <div
           className="relative rounded-3xl overflow-hidden h-[60vh] min-h-[400px]"
@@ -44,14 +47,12 @@ export default function BrandPage({
         </div>
       </section>
 
-      {/* About */}
       <section className="max-w-6xl mx-auto px-6 mt-32">
         <div className="text-center mb-16">
-          <p className="uppercase tracking-widest text-sm font-bold text-muted mb-2">About Us</p>
+          <p className="uppercase tracking-widest text-sm font-bold text-muted mb-2">{t("aboutEyebrow")}</p>
           <h2 className="font-serif text-4xl md:text-5xl">{title}</h2>
         </div>
 
-        {/* Row 1: image left, text right */}
         <div className={`grid md:grid-cols-2 gap-16 items-center ${hasRow2 && row2Paras.length > 0 ? "mb-24" : ""}`}>
           <div className="relative aspect-[4/3]">
             <Image
@@ -67,7 +68,6 @@ export default function BrandPage({
           </div>
         </div>
 
-        {/* Row 2: text left, image right */}
         {hasRow2 && row2Paras.length > 0 && (
           <div className="grid md:grid-cols-2 gap-16 items-center">
             <div className="order-2 md:order-1 space-y-5 text-muted leading-relaxed">
@@ -90,16 +90,16 @@ export default function BrandPage({
 
       {comingSoon && (
         <section className="bg-warm py-24 text-center mt-24">
-          <h2 className="font-serif text-5xl">Coming Soon</h2>
-          <p className="mt-4 text-muted">We&apos;re brewing something good. Stay tuned.</p>
+          <h2 className="font-serif text-5xl">{t("comingSoonTitle")}</h2>
+          <p className="mt-4 text-muted">{t("comingSoonSub")}</p>
         </section>
       )}
 
       {projects && projects.length > 0 && (
         <section className="max-w-7xl mx-auto px-6 mt-32">
           <div className="text-center mb-16">
-            <p className="uppercase tracking-widest text-sm font-bold text-muted mb-2">Our Projects</p>
-            <h2 className="font-serif text-4xl md:text-5xl">What do we do?</h2>
+            <p className="uppercase tracking-widest text-sm font-bold text-muted mb-2">{t("projectsEyebrow")}</p>
+            <h2 className="font-serif text-4xl md:text-5xl">{t("projectsHeading")}</h2>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {projects.map((p) => (
@@ -123,7 +123,7 @@ export default function BrandPage({
 
       {faqs && faqs.length > 0 && (
         <div className="mt-16">
-          <FAQ items={faqs} title="We got answers!" />
+          <FAQ items={faqs} title={tFaq("defaultTitle")} />
         </div>
       )}
 

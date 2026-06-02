@@ -1,0 +1,233 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "companies": "Companies",
+    "projects": "Projects",
+    "contactUs": "Contact Us"
+  },
+  "footer": {
+    "tagline": "Cultivating value from the ground up. A holding company rooted in natural resources.",
+    "navigation": "Navigation",
+    "location": "Location",
+    "address1": "Mega Glodok Kemayoran Jakarta",
+    "address2": "Blok D no.23, RW.10, Gn. Sahari Sel.,",
+    "address3": "Kec. Kemayoran, Kota Jakarta Pusat,",
+    "address4": "Daerah Khusus Ibukota Jakarta 10610",
+    "copyright": "Copyright @ 2025 Bumandhala Kuma Loka. All Rights Reserved.",
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "petStore": "Bumi Kuma Pet Store",
+      "papuaAbadi": "Papua Abadi Nusantara",
+      "nawasena": "Kopi Kuma Nawasena",
+      "consumptions": "Consumptions",
+      "projects": "Projects"
+    }
+  },
+  "ctaBanner": {
+    "heading1": "Interested in",
+    "heading2": "our Products",
+    "heading3": "& Services?",
+    "sub": "Let's make it happen!",
+    "cta": "Contact Us"
+  },
+  "businesses": {
+    "eyebrow": "Our Businesses",
+    "heading": "What do we do?",
+    "sub": "Five distinct businesses, one shared commitment to growing value responsibly.",
+    "learnMore": "Learn more →"
+  },
+  "brandPage": {
+    "aboutEyebrow": "About Us",
+    "comingSoonTitle": "Coming Soon",
+    "comingSoonSub": "We're brewing something good. Stay tuned.",
+    "projectsEyebrow": "Our Projects",
+    "projectsHeading": "What do we do?"
+  },
+  "faq": {
+    "defaultTitle": "We got answers!"
+  },
+  "home": {
+    "heroHeading": "Cultivating Value from the Ground Up.",
+    "heroSub": "We believe true growth starts at the source. With a deep connection to the earth and its resources, we cultivate opportunity, sustainability, and long-term value.",
+    "heroCta": "About Us",
+    "aboutEyebrow": "About Us",
+    "aboutHeading": "Bumandhala Kuma Loka",
+    "aboutP1": "At the core of our philosophy lies a simple truth: all value begins with the earth. As a holding company rooted in natural resources, we are committed to cultivating not just products, but enduring worth — for people, ecosystems, and economies alike.",
+    "aboutP2": "We believe in enterprise that grows with integrity. Working in harmony with nature, fostering long-term partnerships, and building businesses that are resilient, ethical, and impactful.",
+    "aboutCta": "More About Us",
+    "partnersEyebrow": "Our Partners",
+    "brands": [
+      {
+        "title": "Bumi Kuma Pet Store",
+        "desc": "More Than Just a Pet Supply Store — We seek, care for, and provide a wide variety of pets with unique species — from exotic animals and household pets to marine life species — all responsibly and ethically sourced with proper certification. With respect for biodiversity, we operate under an ethical trade system."
+      },
+      {
+        "title": "Papua Abadi Nusantara",
+        "desc": "World-class airport ground handling services in Timika, Papua, providing safe, reliable, and professional operations for major aviation partners across Indonesia."
+      },
+      {
+        "title": "Kopi Kuma Nawasena",
+        "desc": "Indonesian coffee, cultivated with care — bringing the finest single-origin flavors from the archipelago to your cup through ethical farming and direct-trade partnerships."
+      },
+      {
+        "title": "Consumptions",
+        "desc": "Quality, safe, ethically-sourced food products cultivated with deep respect for people, communities, and the planet — from farm to table."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is Bumandhala Kuma Loka?",
+        "a": "A holding company rooted in natural resources, overseeing four businesses across pet care, airport services, coffee, and game development."
+      },
+      {
+        "q": "Where are you based?",
+        "a": "Our head office is in Mega Glodok Kemayoran, Central Jakarta, Indonesia. Our subsidiaries operate across Indonesia and internationally."
+      },
+      {
+        "q": "How can I partner with you?",
+        "a": "Reach out via our Contact page and our team will get in touch to discuss collaboration opportunities."
+      },
+      {
+        "q": "Do you export internationally?",
+        "a": "Yes, we serve both domestic and international markets through a compliant export-import distribution network."
+      }
+    ]
+  },
+  "about": {
+    "metaTitle": "About Us — Bumandhala Kuma Loka",
+    "eyebrow": "Who We Are",
+    "title": "Bumandhala Kuma Loka",
+    "subtitle": "A holding company rooted in natural resources.",
+    "est": "Established 2023",
+    "p1": "In 2023, we were legally established, and to this day we have served both domestic and international markets through a professional export-import distribution network that complies with regulations. As a result, the products we offer undergo a strict selection process to ensure quality, safety, and suitability for consumption.",
+    "p2": "Our products have been distributed for household needs, culinary businesses, restaurants, and large distribution warehouses across various regions in Indonesia — supported by a controlled supply chain that meets food safety standards.",
+    "businessHeading": "Four Growing Businesses",
+    "businessP1": "As a holding company, we oversee three growing businesses: Bumi Kuma Pet Store, PT. Papua Abadi Nusantara, and Kopi Kuma Nawasena.",
+    "businessP2": "From this foundation, we believe that being a strong company means the ability to build long-term relationships and grow them into inclusive, ethical, responsible, and impactful businesses. Our strength lies in the ability to recognize potential, manage resources with care, and develop them through wise investment and innovation."
+  },
+  "contact": {
+    "metaTitle": "Contact Us — Bumandhala Kuma Loka",
+    "eyebrow": "Contact Us",
+    "title": "Let's make something happen",
+    "subtitle": "Tell us a bit about you and we'll get back to you shortly.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send",
+    "adminsHeading": "Or reach us through our admins"
+  },
+  "projects": {
+    "metaTitle": "Projects — Bumandhala Kuma Loka",
+    "eyebrow": "Our Projects",
+    "title": "What do we do?",
+    "subtitle": "A look at what our companies have been building.",
+    "items": [
+      { "title": "Windah's Animotion Collab" },
+      { "title": "Bumi Kuma Offline Store Opening" },
+      { "title": "Bumi Kuma Online Store Opening" },
+      { "title": "Cargo Holding Bandara Timika" }
+    ]
+  },
+  "consumption": {
+    "metaTitle": "Consumptions — Bumandhala Kuma Loka",
+    "title": "Consumptions",
+    "aboutP1": "Our consumption arm supplies quality, safe, and suitably sourced food products to households, culinary businesses, restaurants, and distribution warehouses across Indonesia. Every product passes a strict selection process to meet food safety standards.",
+    "catalogueEyebrow": "Catalogue",
+    "catalogueTitle": "Fish Catalogue"
+  },
+  "petStore": {
+    "metaTitle": "Bumi Kuma Pet Store — Bumandhala Kuma Loka",
+    "title": "Bumi Kuma Pet Store",
+    "aboutP1": "Bumi Kuma Pet Store — More Than Just a Pet Supply Store. This is the first step toward understanding the world of pets professionally. Our goal is to become a trusted, complete, responsible, and animal-friendly pet shop brand for all kinds of pets in Indonesia. Today, we serve both offline and online sales to ensure our products reach various regions across the country.",
+    "aboutP2": "Our specialty lies in sourcing, caring for, and providing a wide range of pets with unique species — from exotic animals and beloved household pets to certified and responsibly sourced marine life. We offer three main services: supplying pet needs and accessories, providing pet lodging through our Pet Hotel, and offering healthy, well-cared-for animals to pet owners. With deep knowledge and respect for biodiversity, we operate with passion, purpose, and an ethical trade system.",
+    "projects": [
+      {
+        "title": "Windah's Animotion Collab",
+        "desc": "In 2024, Bumi Kuma participated in Animotionfest — a festival celebrating Japanese pop culture including anime, manga, and creative communities."
+      },
+      {
+        "title": "Bumi Kuma Offline Store Opening",
+        "desc": "In December 2024, Bumi Kuma officially opened our offline store in Cipayung, East Jakarta, as a commitment to serving our local community."
+      },
+      {
+        "title": "Bumi Kuma Online Store Opening",
+        "desc": "Bumi Kuma has been actively selling on Shopee since November 2023 through our official store, providing convenient access to pet supplies nationwide."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Where is your store located?",
+        "a": "We are located in Cipayung, East Jakarta. For our full address, directions, and business hours, please refer to our Instagram profile or Linktree page."
+      },
+      {
+        "q": "Where can I buy your products?",
+        "a": "We sell pet supplies through Shopee and also accept orders via WhatsApp and Instagram direct message."
+      },
+      {
+        "q": "How do I book the Pet Hotel?",
+        "a": "Contact us through WhatsApp or Instagram. Let us know your preferred check-in and check-out dates and we'll inform you of availability and rates. We offer Deluxe and VIP rooms for cats."
+      },
+      {
+        "q": "Do you sell pets for adoption?",
+        "a": "At this time, we do not sell or offer specific pets for adoption or purchase. Our focus is on pet care, supplies, and boarding services."
+      }
+    ]
+  },
+  "nawasena": {
+    "metaTitle": "Kopi Kuma Nawasena — Bumandhala Kuma Loka",
+    "title": "Kopi Kuma Nawasena",
+    "aboutP1": "Kopi Kuma Nawasena is our coffee venture — bringing the rich flavor of Indonesian coffee to the world, sourced responsibly from local growers and roasted with care."
+  },
+  "papuaAbadi": {
+    "metaTitle": "Papua Abadi Nusantara — Bumandhala Kuma Loka",
+    "title": "Papua Abadi Nusantara",
+    "aboutP1": "In 2021, we were established as a provider of airport services with the aim of offering world-class services to all our partners, ensuring security facilities within the airport environment in a sustainable manner.",
+    "aboutP2": "We believe that passion, focus, professionalism, and high integrity — guided by government regulations and consistently delivering excellent service — are the core values we uphold to achieve our goals.",
+    "aboutP3": "The services we offer include Warehousing and Storage Services, Air Transport Support Services, and Airport Activities, operating in the Mozes Kilangin Airport area in Timika.",
+    "projects": [
+      {
+        "title": "Cargo Holding Bandara Timika",
+        "desc": "Supporting aviation logistics at Mozes Kilangin Airport with professional warehousing and cargo handling services for major airline partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What services do you provide?",
+        "a": "PT. Papua Abadi Nusantara provides a range of airport-related services focused on operational support and logistics, including warehousing and storage, air transport support, and airport activities."
+      },
+      {
+        "q": "Where do you operate?",
+        "a": "Our operations are based at Mozes Kilangin Airport in Timika, Papua. All services are conducted within the airport area, in coordination with local aviation stakeholders and regulatory bodies."
+      }
+    ]
+  },
+  "tba": {
+    "metaTitle": "TBA Studio — Bumandhala Kuma Loka",
+    "title": "TBA Studio",
+    "aboutP1": "TBA Studio focuses on developing original games with unique mechanics and strong design identity. Our core service is full-cycle game development, from concept and gameplay systems to art, code, and release.",
+    "aboutP2": "We are currently working on TypeCaster, a 2.5D action RPG where typing replaces traditional combat. We continue to refine the game based on community feedback and internal testing.",
+    "projects": [
+      {
+        "title": "Hey there! We're TBA Studio",
+        "desc": "Introducing TBA Studio — our indie game development studio focused on creating unique, mechanic-driven gaming experiences that push the boundaries of genre."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What kind of games do you make?",
+        "a": "We specialize in games that push genre boundaries through experimental input methods and accessible design. Memorable, mechanic-driven experiences with limited resources — easy to understand but deep in play."
+      },
+      {
+        "q": "What is TypeCaster?",
+        "a": "A 2.5D action RPG combining fast-paced action with language, rhythm, and timing — typing replaces traditional combat to create a different kind of RPG."
+      },
+      {
+        "q": "How can I collaborate?",
+        "a": "Reach out through our itch.io page or via Instagram or Discord. We're especially interested in partnerships that support indie visibility, creative collaboration, or player testing."
+      }
+    ]
+  }
+}

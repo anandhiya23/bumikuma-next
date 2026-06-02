@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
-import Link from "next/link";
 import { useState } from "react";
+import { useTranslations } from "next-intl";
 
 type Brand = {
   href: string;
@@ -16,13 +16,14 @@ export default function BusinessesCarousel({ brands }: { brands: Brand[] }) {
   const [active, setActive] = useState(0);
   const prev = (active - 1 + brands.length) % brands.length;
   const next = (active + 1) % brands.length;
+  const t = useTranslations("businesses");
 
   return (
     <section className="py-24 px-6 overflow-hidden">
       <div className="max-w-7xl mx-auto text-center mb-16">
-        <span className="text-sm font-bold uppercase tracking-widest text-muted mb-4 block">Our Businesses</span>
-        <h2 className="font-serif text-4xl md:text-6xl mb-6">What do we do?</h2>
-        <p className="text-muted max-w-2xl mx-auto">Five distinct businesses, one shared commitment to growing value responsibly.</p>
+        <span className="text-sm font-bold uppercase tracking-widest text-muted mb-4 block">{t("eyebrow")}</span>
+        <h2 className="font-serif text-4xl md:text-6xl mb-6">{t("heading")}</h2>
+        <p className="text-muted max-w-2xl mx-auto">{t("sub")}</p>
       </div>
 
       <div className="relative flex items-center justify-center gap-8 mb-12">
@@ -44,13 +45,13 @@ export default function BusinessesCarousel({ brands }: { brands: Brand[] }) {
           <Image src={brands[prev].image ?? brands[prev].logo} alt={brands[prev].title} fill className="object-cover" sizes="208px" />
         </div>
 
-        <Link
+        <a
           href={brands[active].href}
           className="relative w-full max-w-md aspect-square rounded-2xl overflow-hidden shadow-xl z-10 flex-shrink-0 hover:scale-[1.02] transition-transform"
           style={{ backgroundColor: brands[active].color }}
         >
           <Image src={brands[active].image ?? brands[active].logo} alt={brands[active].title} fill className="object-cover" sizes="448px" />
-        </Link>
+        </a>
 
         <div
           className="hidden lg:block relative w-52 h-64 rounded-2xl overflow-hidden opacity-40 scale-90 cursor-pointer flex-shrink-0 transition-opacity hover:opacity-60"
@@ -73,9 +74,9 @@ export default function BusinessesCarousel({ brands }: { brands: Brand[] }) {
 
       <div className="max-w-2xl mx-auto text-center text-muted">
         <p className="text-sm leading-relaxed">{brands[active].desc}</p>
-        <Link href={brands[active].href} className="inline-block mt-4 text-brand text-sm font-semibold hover:underline">
-          Learn more →
-        </Link>
+        <a href={brands[active].href} className="inline-block mt-4 text-brand text-sm font-semibold hover:underline">
+          {t("learnMore")}
+        </a>
       </div>
 
       <div className="flex justify-center gap-2 mt-8">

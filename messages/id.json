@@ -1,0 +1,233 @@
+{
+  "header": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "companies": "Perusahaan",
+    "projects": "Proyek",
+    "contactUs": "Hubungi Kami"
+  },
+  "footer": {
+    "tagline": "Menumbuhkan nilai dari bawah ke atas. Perusahaan holding yang berakar pada sumber daya alam.",
+    "navigation": "Navigasi",
+    "location": "Lokasi",
+    "address1": "Mega Glodok Kemayoran Jakarta",
+    "address2": "Blok D no.23, RW.10, Gn. Sahari Sel.,",
+    "address3": "Kec. Kemayoran, Kota Jakarta Pusat,",
+    "address4": "Daerah Khusus Ibukota Jakarta 10610",
+    "copyright": "Hak Cipta @ 2025 Bumandhala Kuma Loka. Semua Hak Dilindungi.",
+    "links": {
+      "home": "Beranda",
+      "about": "Tentang",
+      "petStore": "Bumi Kuma Pet Store",
+      "papuaAbadi": "Papua Abadi Nusantara",
+      "nawasena": "Kopi Kuma Nawasena",
+      "consumptions": "Konsumsi",
+      "projects": "Proyek"
+    }
+  },
+  "ctaBanner": {
+    "heading1": "Tertarik dengan",
+    "heading2": "Produk &",
+    "heading3": "Layanan Kami?",
+    "sub": "Mari kita wujudkan!",
+    "cta": "Hubungi Kami"
+  },
+  "businesses": {
+    "eyebrow": "Bisnis Kami",
+    "heading": "Apa yang kami lakukan?",
+    "sub": "Lima bisnis berbeda, satu komitmen bersama untuk menumbuhkan nilai secara bertanggung jawab.",
+    "learnMore": "Pelajari lebih lanjut →"
+  },
+  "brandPage": {
+    "aboutEyebrow": "Tentang Kami",
+    "comingSoonTitle": "Segera Hadir",
+    "comingSoonSub": "Kami sedang menyiapkan sesuatu yang istimewa. Nantikan!",
+    "projectsEyebrow": "Proyek Kami",
+    "projectsHeading": "Apa yang kami lakukan?"
+  },
+  "faq": {
+    "defaultTitle": "Kami punya jawabannya!"
+  },
+  "home": {
+    "heroHeading": "Menumbuhkan Nilai dari Bawah ke Atas.",
+    "heroSub": "Kami percaya pertumbuhan sejati dimulai dari sumbernya. Dengan hubungan mendalam terhadap bumi dan sumber dayanya, kami menumbuhkan peluang, keberlanjutan, dan nilai jangka panjang.",
+    "heroCta": "Tentang Kami",
+    "aboutEyebrow": "Tentang Kami",
+    "aboutHeading": "Bumandhala Kuma Loka",
+    "aboutP1": "Inti dari filosofi kami adalah kebenaran sederhana: semua nilai berawal dari bumi. Sebagai perusahaan holding yang berakar pada sumber daya alam, kami berkomitmen untuk menumbuhkan bukan hanya produk, tetapi nilai yang langgeng — bagi manusia, ekosistem, dan perekonomian.",
+    "aboutP2": "Kami percaya pada usaha yang tumbuh dengan integritas. Bekerja selaras dengan alam, membangun kemitraan jangka panjang, dan mengembangkan bisnis yang tangguh, etis, dan berdampak.",
+    "aboutCta": "Lebih Lanjut Tentang Kami",
+    "partnersEyebrow": "Mitra Kami",
+    "brands": [
+      {
+        "title": "Bumi Kuma Pet Store",
+        "desc": "Lebih dari Sekadar Toko Hewan Peliharaan — Kami mencari, merawat, dan menyediakan berbagai hewan peliharaan dengan spesies unik — dari hewan eksotis dan peliharaan rumahan hingga spesies laut — semuanya bersumber secara bertanggung jawab dan etis dengan sertifikasi yang tepat. Dengan menghormati keanekaragaman hayati, kami beroperasi di bawah sistem perdagangan yang etis."
+      },
+      {
+        "title": "Papua Abadi Nusantara",
+        "desc": "Layanan ground handling bandara kelas dunia di Timika, Papua, menyediakan operasi yang aman, andal, dan profesional untuk mitra penerbangan besar di Indonesia."
+      },
+      {
+        "title": "Kopi Kuma Nawasena",
+        "desc": "Kopi Indonesia, dibudidayakan dengan penuh perhatian — menghadirkan cita rasa single-origin terbaik dari nusantara ke cangkir Anda melalui pertanian etis dan kemitraan perdagangan langsung."
+      },
+      {
+        "title": "Konsumsi",
+        "desc": "Produk makanan berkualitas, aman, dan bersumber secara etis yang dibudidayakan dengan penghormatan mendalam terhadap manusia, komunitas, dan planet — dari ladang ke meja makan."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Apa itu Bumandhala Kuma Loka?",
+        "a": "Perusahaan holding yang berakar pada sumber daya alam, mengawasi empat bisnis di bidang perawatan hewan, layanan bandara, kopi, dan pengembangan game."
+      },
+      {
+        "q": "Di mana Anda berdomisili?",
+        "a": "Kantor pusat kami berada di Mega Glodok Kemayoran, Jakarta Pusat, Indonesia. Anak perusahaan kami beroperasi di seluruh Indonesia dan internasional."
+      },
+      {
+        "q": "Bagaimana cara bermitra dengan Anda?",
+        "a": "Hubungi kami melalui halaman Kontak dan tim kami akan menghubungi Anda untuk mendiskusikan peluang kolaborasi."
+      },
+      {
+        "q": "Apakah Anda mengekspor secara internasional?",
+        "a": "Ya, kami melayani pasar domestik maupun internasional melalui jaringan distribusi ekspor-impor yang sesuai regulasi."
+      }
+    ]
+  },
+  "about": {
+    "metaTitle": "Tentang Kami — Bumandhala Kuma Loka",
+    "eyebrow": "Siapa Kami",
+    "title": "Bumandhala Kuma Loka",
+    "subtitle": "Perusahaan holding yang berakar pada sumber daya alam.",
+    "est": "Didirikan 2023",
+    "p1": "Pada 2023, kami resmi didirikan secara hukum, dan hingga saat ini telah melayani pasar domestik maupun internasional melalui jaringan distribusi ekspor-impor profesional yang mematuhi regulasi. Produk yang kami tawarkan menjalani proses seleksi ketat untuk memastikan kualitas, keamanan, dan kelayakan konsumsi.",
+    "p2": "Produk kami telah didistribusikan untuk kebutuhan rumah tangga, usaha kuliner, restoran, dan gudang distribusi besar di berbagai wilayah Indonesia — didukung oleh rantai pasokan terkontrol yang memenuhi standar keamanan pangan.",
+    "businessHeading": "Empat Bisnis yang Berkembang",
+    "businessP1": "Sebagai perusahaan holding, kami mengawasi tiga bisnis yang berkembang: Bumi Kuma Pet Store, PT. Papua Abadi Nusantara, dan Kopi Kuma Nawasena.",
+    "businessP2": "Dari fondasi ini, kami percaya bahwa menjadi perusahaan yang kuat berarti kemampuan untuk membangun hubungan jangka panjang dan mengembangkannya menjadi bisnis yang inklusif, etis, bertanggung jawab, dan berdampak. Kekuatan kami terletak pada kemampuan mengenali potensi, mengelola sumber daya dengan cermat, dan mengembangkannya melalui investasi dan inovasi yang bijak."
+  },
+  "contact": {
+    "metaTitle": "Hubungi Kami — Bumandhala Kuma Loka",
+    "eyebrow": "Hubungi Kami",
+    "title": "Mari wujudkan sesuatu bersama",
+    "subtitle": "Ceritakan sedikit tentang Anda dan kami akan segera menghubungi Anda.",
+    "name": "Nama",
+    "email": "Email",
+    "subject": "Subjek",
+    "message": "Pesan",
+    "send": "Kirim",
+    "adminsHeading": "Atau hubungi kami melalui admin kami"
+  },
+  "projects": {
+    "metaTitle": "Proyek — Bumandhala Kuma Loka",
+    "eyebrow": "Proyek Kami",
+    "title": "Apa yang kami lakukan?",
+    "subtitle": "Sekilas tentang apa yang sedang dibangun oleh perusahaan kami.",
+    "items": [
+      { "title": "Kolaborasi Animotion Windah" },
+      { "title": "Pembukaan Toko Offline Bumi Kuma" },
+      { "title": "Pembukaan Toko Online Bumi Kuma" },
+      { "title": "Cargo Holding Bandara Timika" }
+    ]
+  },
+  "consumption": {
+    "metaTitle": "Konsumsi — Bumandhala Kuma Loka",
+    "title": "Konsumsi",
+    "aboutP1": "Divisi konsumsi kami menyediakan produk makanan berkualitas, aman, dan bersumber dengan tepat untuk rumah tangga, usaha kuliner, restoran, dan gudang distribusi di seluruh Indonesia. Setiap produk melewati proses seleksi ketat untuk memenuhi standar keamanan pangan.",
+    "catalogueEyebrow": "Katalog",
+    "catalogueTitle": "Katalog Ikan"
+  },
+  "petStore": {
+    "metaTitle": "Bumi Kuma Pet Store — Bumandhala Kuma Loka",
+    "title": "Bumi Kuma Pet Store",
+    "aboutP1": "Bumi Kuma Pet Store — Lebih dari Sekadar Toko Hewan Peliharaan. Ini adalah langkah pertama menuju pemahaman dunia hewan peliharaan secara profesional. Tujuan kami adalah menjadi merek pet shop yang terpercaya, lengkap, bertanggung jawab, dan ramah hewan untuk semua jenis hewan peliharaan di Indonesia. Saat ini, kami melayani penjualan offline dan online untuk memastikan produk kami menjangkau berbagai wilayah.",
+    "aboutP2": "Keahlian kami terletak pada pencarian, perawatan, dan penyediaan berbagai hewan peliharaan dengan spesies unik — dari hewan eksotis dan peliharaan rumahan hingga makhluk laut yang bersertifikat dan bersumber secara bertanggung jawab. Kami menawarkan tiga layanan utama: menyediakan kebutuhan dan aksesori hewan peliharaan, menyediakan penginapan hewan melalui Pet Hotel kami, dan menawarkan hewan yang sehat dan terawat kepada pemilik hewan. Dengan pengetahuan mendalam dan penghormatan terhadap keanekaragaman hayati, kami beroperasi dengan passion, tujuan, dan sistem perdagangan etis.",
+    "projects": [
+      {
+        "title": "Kolaborasi Animotion Windah",
+        "desc": "Pada 2024, Bumi Kuma berpartisipasi dalam Animotionfest — festival yang merayakan budaya pop Jepang termasuk anime, manga, dan komunitas kreatif."
+      },
+      {
+        "title": "Pembukaan Toko Offline Bumi Kuma",
+        "desc": "Pada Desember 2024, Bumi Kuma secara resmi membuka toko offline kami di Cipayung, Jakarta Timur, sebagai komitmen untuk melayani komunitas lokal kami."
+      },
+      {
+        "title": "Pembukaan Toko Online Bumi Kuma",
+        "desc": "Bumi Kuma telah aktif berjualan di Shopee sejak November 2023 melalui toko resmi kami, memberikan akses mudah ke perlengkapan hewan peliharaan di seluruh Indonesia."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Di mana toko Anda berada?",
+        "a": "Kami berlokasi di Cipayung, Jakarta Timur. Untuk alamat lengkap, petunjuk arah, dan jam operasional, silakan kunjungi profil Instagram atau halaman Linktree kami."
+      },
+      {
+        "q": "Di mana saya bisa membeli produk Anda?",
+        "a": "Kami menjual perlengkapan hewan peliharaan melalui Shopee dan juga menerima pesanan melalui WhatsApp dan pesan langsung Instagram."
+      },
+      {
+        "q": "Bagaimana cara memesan Pet Hotel?",
+        "a": "Hubungi kami melalui WhatsApp atau Instagram. Beritahukan tanggal check-in dan check-out yang Anda inginkan dan kami akan memberitahu ketersediaan dan tarif. Kami menawarkan kamar Deluxe dan VIP untuk kucing."
+      },
+      {
+        "q": "Apakah Anda menjual hewan untuk diadopsi?",
+        "a": "Saat ini, kami tidak menjual atau menawarkan hewan peliharaan tertentu untuk diadopsi atau dibeli. Fokus kami adalah pada perawatan hewan, perlengkapan, dan layanan penginapan."
+      }
+    ]
+  },
+  "nawasena": {
+    "metaTitle": "Kopi Kuma Nawasena — Bumandhala Kuma Loka",
+    "title": "Kopi Kuma Nawasena",
+    "aboutP1": "Kopi Kuma Nawasena adalah usaha kopi kami — menghadirkan cita rasa kopi Indonesia yang kaya ke dunia, bersumber secara bertanggung jawab dari petani lokal dan disangrai dengan penuh perhatian."
+  },
+  "papuaAbadi": {
+    "metaTitle": "Papua Abadi Nusantara — Bumandhala Kuma Loka",
+    "title": "Papua Abadi Nusantara",
+    "aboutP1": "Pada 2021, kami didirikan sebagai penyedia layanan bandara dengan tujuan memberikan layanan kelas dunia kepada semua mitra kami, memastikan fasilitas keamanan di lingkungan bandara secara berkelanjutan.",
+    "aboutP2": "Kami percaya bahwa passion, fokus, profesionalisme, dan integritas tinggi — yang dipandu oleh regulasi pemerintah dan secara konsisten memberikan layanan prima — adalah nilai-nilai inti yang kami pegang untuk mencapai tujuan kami.",
+    "aboutP3": "Layanan yang kami tawarkan meliputi Layanan Pergudangan dan Penyimpanan, Layanan Dukungan Angkutan Udara, dan Kegiatan Bandara, yang beroperasi di kawasan Bandara Mozes Kilangin Timika.",
+    "projects": [
+      {
+        "title": "Cargo Holding Bandara Timika",
+        "desc": "Mendukung logistik penerbangan di Bandara Mozes Kilangin dengan layanan pergudangan dan penanganan kargo profesional untuk mitra maskapai besar."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Layanan apa yang Anda sediakan?",
+        "a": "PT. Papua Abadi Nusantara menyediakan berbagai layanan terkait bandara yang berfokus pada dukungan operasional dan logistik, termasuk pergudangan dan penyimpanan, dukungan angkutan udara, dan kegiatan bandara."
+      },
+      {
+        "q": "Di mana Anda beroperasi?",
+        "a": "Operasi kami berbasis di Bandara Mozes Kilangin di Timika, Papua. Semua layanan dilakukan di dalam kawasan bandara, berkoordinasi dengan pemangku kepentingan penerbangan lokal dan badan regulasi."
+      }
+    ]
+  },
+  "tba": {
+    "metaTitle": "TBA Studio — Bumandhala Kuma Loka",
+    "title": "TBA Studio",
+    "aboutP1": "TBA Studio berfokus pada pengembangan game orisinal dengan mekanik unik dan identitas desain yang kuat. Layanan utama kami adalah pengembangan game lengkap, dari konsep dan sistem gameplay hingga seni, kode, dan rilis.",
+    "aboutP2": "Kami saat ini sedang mengerjakan TypeCaster, sebuah action RPG 2.5D di mana mengetik menggantikan pertarungan tradisional. Kami terus menyempurnakan game berdasarkan umpan balik komunitas dan pengujian internal.",
+    "projects": [
+      {
+        "title": "Hei! Kami TBA Studio",
+        "desc": "Memperkenalkan TBA Studio — studio pengembangan game indie kami yang berfokus pada penciptaan pengalaman gaming unik yang didorong mekanik dan mendorong batas genre."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Game apa yang Anda buat?",
+        "a": "Kami berspesialisasi dalam game yang mendorong batas genre melalui metode input eksperimental dan desain yang mudah diakses. Pengalaman yang berkesan dan didorong mekanik dengan sumber daya terbatas — mudah dipahami tetapi mendalam dalam permainan."
+      },
+      {
+        "q": "Apa itu TypeCaster?",
+        "a": "Action RPG 2.5D yang menggabungkan aksi cepat dengan bahasa, ritme, dan timing — mengetik menggantikan pertarungan tradisional untuk menciptakan jenis RPG yang berbeda."
+      },
+      {
+        "q": "Bagaimana cara berkolaborasi?",
+        "a": "Hubungi melalui halaman itch.io kami atau melalui Instagram atau Discord. Kami sangat tertarik dengan kemitraan yang mendukung visibilitas indie, kolaborasi kreatif, atau pengujian pemain."
+      }
+    ]
+  }
+}
