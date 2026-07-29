@@ -1,0 +1,532 @@
+[
+  {
+    "id": "alu-alu",
+    "name": "Alu - Alu",
+    "category": "Ikan Laut",
+    "price": "Rp40.000/Kg",
+    "unit_info": "0.5 - 1.5 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 1
+  },
+  {
+    "id": "ayam-ayam",
+    "name": "Ayam Ayam",
+    "category": "Ikan Laut",
+    "price": "Rp45.000/Kg",
+    "unit_info": "0.5 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 2
+  },
+  {
+    "id": "baronang-tulis",
+    "name": "Baronang Tulis",
+    "category": "Ikan Laut",
+    "price": "Rp80.000/Kg",
+    "unit_info": "0.4 - 0.8 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 3
+  },
+  {
+    "id": "bawal-hitam",
+    "name": "Bawal Hitam",
+    "category": "Ikan Laut",
+    "price": "Rp75.000/Kg",
+    "unit_info": "0.5 - 0.8 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 4
+  },
+  {
+    "id": "bawal-jepang",
+    "name": "Bawal Jepang",
+    "category": "Ikan Laut",
+    "price": "Rp120.000/Kg",
+    "unit_info": "0.5 - 0.8 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 5
+  },
+  {
+    "id": "jenahak",
+    "name": "Jenahak",
+    "category": "Ikan Laut",
+    "price": "Rp80.000/Kg",
+    "unit_info": "0.4 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 6
+  },
+  {
+    "id": "kakap-merah",
+    "name": "Kakap Merah",
+    "category": "Ikan Laut",
+    "price": "Rp110.000/Kg",
+    "unit_info": "0.5 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 7
+  },
+  {
+    "id": "kembung-apung",
+    "name": "Kembung Apung",
+    "category": "Ikan Laut",
+    "price": "Rp55.000/Kg",
+    "unit_info": "2 - 7 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 8
+  },
+  {
+    "id": "kembung-banjar",
+    "name": "Kembung Banjar",
+    "category": "Ikan Laut",
+    "price": "Rp65.000/Kg",
+    "unit_info": "6 - 7 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 9
+  },
+  {
+    "id": "kembung-como",
+    "name": "Kembung Como",
+    "category": "Ikan Laut",
+    "price": "Rp60.000/Kg",
+    "unit_info": "5 - 7 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 10
+  },
+  {
+    "id": "kerapu",
+    "name": "Kerapu",
+    "category": "Ikan Laut",
+    "price": "Rp80.000/Kg",
+    "unit_info": "0.5 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 11
+  },
+  {
+    "id": "kue-gepeng",
+    "name": "Kue Gepeng",
+    "category": "Ikan Laut",
+    "price": "Rp80.000/Kg",
+    "unit_info": "0.5 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 12
+  },
+  {
+    "id": "kue-lilin",
+    "name": "Kue Lilin",
+    "category": "Ikan Laut",
+    "price": "Rp85.000/Kg",
+    "unit_info": "0.4 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 13
+  },
+  {
+    "id": "kurisi",
+    "name": "Kurisi",
+    "category": "Ikan Laut",
+    "price": "Rp55.000/Kg",
+    "unit_info": "5 - 10 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 14
+  },
+  {
+    "id": "kurisi-lilin",
+    "name": "Kurisi Lilin",
+    "category": "Ikan Laut",
+    "price": "Rp70.000/Kg",
+    "unit_info": "5 - 10 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 15
+  },
+  {
+    "id": "tenggiri",
+    "name": "Tenggiri",
+    "category": "Ikan Laut",
+    "price": "Rp75.000/Kg",
+    "unit_info": "0.5 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 16
+  },
+  {
+    "id": "tenggiri-besar",
+    "name": "Tenggiri Besar",
+    "category": "Ikan Laut",
+    "price": "Rp95.000",
+    "unit_info": ">2kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 17
+  },
+  {
+    "id": "tongkol-abu",
+    "name": "Tongkol Abu",
+    "category": "Ikan Laut",
+    "price": "Rp50.000/Kg",
+    "unit_info": "0.5 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 18
+  },
+  {
+    "id": "tongkol-batik",
+    "name": "Tongkol Batik",
+    "category": "Ikan Laut",
+    "price": "Rp40.000/Kg",
+    "unit_info": "0.5 - 1 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 19
+  },
+  {
+    "id": "rajungan",
+    "name": "Rajungan",
+    "category": "Ikan Laut",
+    "price": "Rp125.000",
+    "unit_info": "4 - 7 ekor",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 20
+  },
+  {
+    "id": "bawal-putih",
+    "name": "Bawal Putih",
+    "category": "Ikan Laut",
+    "price": "Rp200.000",
+    "unit_info": "0.3 - 0.4/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 21
+  },
+  {
+    "id": "dorry-fillet-20",
+    "name": "Dorry Fillet 20%",
+    "category": "Ikan Laut",
+    "price": "Rp55.000/Kg",
+    "unit_info": "20% / kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 22
+  },
+  {
+    "id": "dorry-fillet-30",
+    "name": "Dorry Fillet 30%",
+    "category": "Ikan Laut",
+    "price": "Rp45.000/Kg",
+    "unit_info": "30% / kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 23
+  },
+  {
+    "id": "dorry-fillet-40",
+    "name": "Dorry Fillet 40%",
+    "category": "Ikan Laut",
+    "price": "Rp40.000/Kg",
+    "unit_info": "40% / kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 24
+  },
+  {
+    "id": "kepala-kakap",
+    "name": "Kepala Kakap",
+    "category": "Ikan Laut",
+    "price": "Rp45.000",
+    "unit_info": "300 - 500 / kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 25
+  },
+  {
+    "id": "gurame-kecil",
+    "name": "Gurame Kecil",
+    "category": "Ikan Air Tawar",
+    "price": "Rp35.000/Kg",
+    "unit_info": "4 - 5 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 1
+  },
+  {
+    "id": "gurame-besar",
+    "name": "Gurame Besar",
+    "category": "Ikan Air Tawar",
+    "price": "Rp45.000/Kg",
+    "unit_info": "1 - 3 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 2
+  },
+  {
+    "id": "patin",
+    "name": "Patin",
+    "category": "Ikan Air Tawar",
+    "price": "Rp35.000/Kg",
+    "unit_info": "1 - 3 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 3
+  },
+  {
+    "id": "mujair",
+    "name": "Mujair",
+    "category": "Ikan Air Tawar",
+    "price": "Rp45.000/Kg",
+    "unit_info": "2 - 3 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 4
+  },
+  {
+    "id": "lele-kecil",
+    "name": "Lele Kecil",
+    "category": "Ikan Air Tawar",
+    "price": "Rp35.000/Kg",
+    "unit_info": "4 - 5 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 5
+  },
+  {
+    "id": "lele-besar",
+    "name": "Lele Besar",
+    "category": "Ikan Air Tawar",
+    "price": "Rp40.000/Kg",
+    "unit_info": "7 - 10 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 6
+  },
+  {
+    "id": "cumi-sero-kecil",
+    "name": "Cumi Sero Kecil",
+    "category": "Cumi-Cumi",
+    "price": "Rp75.000/Kg",
+    "unit_info": "5 - 10 cm/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 1
+  },
+  {
+    "id": "cumi-sero-sedang",
+    "name": "Cumi Sero Sedang",
+    "category": "Cumi-Cumi",
+    "price": "Rp90.000/Kg",
+    "unit_info": "10 - 15 cm/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 2
+  },
+  {
+    "id": "cumi-bangka",
+    "name": "Cumi Bangka",
+    "category": "Cumi-Cumi",
+    "price": "Rp110.000/Kg",
+    "unit_info": "15 - 20 cm/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 3
+  },
+  {
+    "id": "udang-jerbung-40-50",
+    "name": "Udang Jerbung 40-50",
+    "category": "Udang",
+    "price": "Rp115.000/Kg",
+    "unit_info": "40 - 50 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 1
+  },
+  {
+    "id": "udang-jerbung-50-60",
+    "name": "Udang Jerbung 50-60",
+    "category": "Udang",
+    "price": "Rp95.000/Kg",
+    "unit_info": "50 - 60 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 2
+  },
+  {
+    "id": "udang-kupas-krosak",
+    "name": "Udang Kupas Krosak",
+    "category": "Udang",
+    "price": "Rp100.000/Kg",
+    "unit_info": "180 - 200 / kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 3
+  },
+  {
+    "id": "udang-tiger-40-50",
+    "name": "Udang Tiger 40-50",
+    "category": "Udang",
+    "price": "Rp85.000/Kg",
+    "unit_info": "40 - 50 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 4
+  },
+  {
+    "id": "udang-tiger-30-35",
+    "name": "Udang Tiger 30-35",
+    "category": "Udang",
+    "price": "Rp115.000/Kg",
+    "unit_info": "30 - 35 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 5
+  },
+  {
+    "id": "udang-tiger-25-30",
+    "name": "Udang Tiger 25-30",
+    "category": "Udang",
+    "price": "Rp180.000/Kg",
+    "unit_info": "25 - 30 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 6
+  },
+  {
+    "id": "udang-vaname-70-80",
+    "name": "Udang Vaname 70-80",
+    "category": "Udang",
+    "price": "Rp80.000/Kg",
+    "unit_info": "70 - 80 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 7
+  },
+  {
+    "id": "udang-vaname-60-70",
+    "name": "Udang Vaname 60-70",
+    "category": "Udang",
+    "price": "Rp95.000/Kg",
+    "unit_info": "60 - 70 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 8
+  },
+  {
+    "id": "udang-vaname-50-60",
+    "name": "Udang Vaname 50-60",
+    "category": "Udang",
+    "price": "Rp110.000/Kg",
+    "unit_info": "50 - 60 ekor/kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 9
+  },
+  {
+    "id": "kerang-ijo",
+    "name": "Kerang Ijo",
+    "category": "Kerang Tahu",
+    "price": "Rp20.000/Kg",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 1
+  },
+  {
+    "id": "kerang-tahu",
+    "name": "Kerang Tahu",
+    "category": "Kerang Tahu",
+    "price": "Rp30.000/Kg",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 2
+  },
+  {
+    "id": "kerang-darah",
+    "name": "Kerang Darah",
+    "category": "Kerang Tahu",
+    "price": "Rp35.000/Kg",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 3
+  },
+  {
+    "id": "kerang-bumbu",
+    "name": "Kerang Bumbu",
+    "category": "Kerang Tahu",
+    "price": "Rp70.000/Kg",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 4
+  },
+  {
+    "id": "kerang-kampuk",
+    "name": "Kerang Kampuk",
+    "category": "Kerang Tahu",
+    "price": "Rp50.000/Kg",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 5
+  },
+  {
+    "id": "kerang-gelatik",
+    "name": "Kerang Gelatik",
+    "category": "Kerang Tahu",
+    "price": "Rp45.000/Kg",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 6
+  },
+  {
+    "id": "kerang-batik",
+    "name": "Kerang Batik",
+    "category": "Kerang Tahu",
+    "price": "Rp60.000/Kg",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 7
+  },
+  {
+    "id": "kepiting-jantan",
+    "name": "Kepiting Jantan",
+    "category": "Lain Lain",
+    "price": "Hubungi kami",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 1
+  },
+  {
+    "id": "kepiting-telur",
+    "name": "Kepiting Telur",
+    "category": "Lain Lain",
+    "price": "Hubungi kami",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 2
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon",
+    "category": "Lain Lain",
+    "price": "Hubungi kami",
+    "unit_info": "Per Kg",
+    "image_path": "",
+    "in_stock": true,
+    "sort_order": 3
+  }
+]
